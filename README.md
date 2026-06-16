@@ -1,6 +1,6 @@
 # Clapping Detector Using FFT and Envelope Techniques
 
-A clap detection system based on an **ESP32-C** and an inexpensive **I2S microphone**.
+A clap detection system based on an **ESP32-C3** and an inexpensive **I2S microphone**.
 
 ## Features
 
@@ -14,6 +14,5 @@ The current implementation already achieves good results. Reliability can be inc
 
 - Detecting **two claps in quick succession**
 - Recognizing predefined clap sequences
-- Combining timing and spectral characteristics
 
 Requiring multiple consecutive clap events can greatly reduce false positives and improve overall detection accuracy.
